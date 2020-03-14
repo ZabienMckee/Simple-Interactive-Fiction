@@ -1,6 +1,8 @@
 # Simple-Interactive-Fiction
 A simple text-based game written in Python
-~~~~~~~~~~~~~~~~~~~~~Working Commands(As of v0.0.1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+~~~~~~~~~~~~~~~~~~~~~Working Commands(As of v0.0.1)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Go [direction] - move around the mansion
 Grab [object] - pickup items
 
